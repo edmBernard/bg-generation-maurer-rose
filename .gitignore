@@ -1,0 +1,6 @@
+/.vscode
+/build
+/vcpkg_installed
+
+.DS_store
+*.svg
